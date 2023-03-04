@@ -1,3 +1,5 @@
+This library was created by Vaishnavi Gujjula, during the course of her Ph.D.
+
 Fast solvers for two-dimensional scattering problems in 2D are presented.
 
 By representing the scattered field as a volume potential in terms of the Green's function, we arrive at the Lippmann-Schwinger equation in integral form.
